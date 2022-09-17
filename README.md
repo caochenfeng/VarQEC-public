@@ -1,6 +1,6 @@
 # VarQEC
 
-This is the code repository for paper "Quantum variational learning for quantum error-correcting codes" [arxiv-link](https://arxiv.org/abs/2204.03560)
+This is the code repository for the paper "Quantum variational learning for quantum error-correcting codes" [arxiv-link](https://arxiv.org/abs/2204.03560). Note that the numerical results in the original paper were obtained by another non-public quantum software with an automatic differentiation engine. Nevertheless, those results can also be obtained/verified by modifying and running the following code with quantum circuits constructed by Qiskit.
 
 quickstart
 

@@ -8,7 +8,7 @@ quickstart
 python draft00.py
 ```
 
-You could chnnge `qecc_str` in `draft00.py` to find various QECC.
+You could change the variable `qecc_str` in `draft00.py` to find various QECC.
 
 set `qecc_str=((5,2,de(2)=3))[5]` to find asymmetrical QECC.
 
